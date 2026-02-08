@@ -37463,5 +37463,16 @@
     "description": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
     "license": "MIT",
     "web": "https://github.com/garrettkinman/SteadyTensor"
+  },
+  {
+    "name": "FreedomLogging",
+    "url": "https://github.com/Jurgen-Be/FreedomLogging",
+    "method": "git",
+    "tags": [
+      "logging"
+    ],
+    "description": "An simple and complete logging solution.",
+    "license": "MIT",
+    "web": "https://github.com/Jurgen-Be/FreedomLogging"
   }
 ]
